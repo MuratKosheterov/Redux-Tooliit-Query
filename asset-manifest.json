@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MuratKosheterov/Redux-Tooliit-Query/static/css/main.9b79900e.css",
+    "main.js": "/MuratKosheterov/Redux-Tooliit-Query/static/js/main.e3a45087.js",
+    "index.html": "/MuratKosheterov/Redux-Tooliit-Query/index.html",
+    "main.9b79900e.css.map": "/MuratKosheterov/Redux-Tooliit-Query/static/css/main.9b79900e.css.map",
+    "main.e3a45087.js.map": "/MuratKosheterov/Redux-Tooliit-Query/static/js/main.e3a45087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b79900e.css",
+    "static/js/main.e3a45087.js"
+  ]
+}
